@@ -64,3 +64,5 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
+Good articles:  
+[Git remote](https://www.atlassian.com/git/tutorials/syncing)
